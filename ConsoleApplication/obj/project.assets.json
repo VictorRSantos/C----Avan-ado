@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectUniqueName": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\ConsoleApplication.csproj",
       "projectName": "ConsoleApplication",
-      "projectPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\ConsoleApplication.csproj",
       "packagesPath": "C:\\packages",
-      "outputPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\ConsoleApplication\\obj\\",
+      "outputPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,11 +77,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\DeserializarXML\\DeserializarXML.csproj": {
-              "projectPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\DeserializarXML\\DeserializarXML.csproj"
+            "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\DeserializarXML\\DeserializarXML.csproj": {
+              "projectPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\DeserializarXML\\DeserializarXML.csproj"
             },
-            "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj": {
-              "projectPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj"
+            "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj": {
+              "projectPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj"
             }
           }
         }

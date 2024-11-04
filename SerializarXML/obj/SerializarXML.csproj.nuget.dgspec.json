@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj": {}
+    "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj": {}
   },
   "projects": {
-    "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj": {
+    "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj",
+        "projectUniqueName": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj",
         "projectName": "SerializarXML",
-        "projectPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\SerializarXML.csproj",
+        "projectPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\SerializarXML.csproj",
         "packagesPath": "C:\\packages",
-        "outputPath": "D:\\Victor\\Estudos\\udemy\\C# - Avançado\\SerializarXML\\obj\\",
+        "outputPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\SerializarXML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

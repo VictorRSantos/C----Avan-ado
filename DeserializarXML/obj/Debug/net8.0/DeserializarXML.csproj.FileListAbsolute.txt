@@ -1,0 +1,15 @@
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\bin\Debug\net8.0\DeserializarXML.deps.json
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\bin\Debug\net8.0\DeserializarXML.dll
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\bin\Debug\net8.0\DeserializarXML.pdb
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\bin\Debug\net8.0\SerializarXML.dll
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\bin\Debug\net8.0\SerializarXML.pdb
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.csproj.AssemblyReference.cache
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.AssemblyInfoInputs.cache
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.AssemblyInfo.cs
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\Deserial.34481609.Up2Date
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.dll
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\refint\DeserializarXML.dll
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\DeserializarXML.pdb
+D:\Victor\Estudos\udemy\C# - Avançado\DeserializarXML\obj\Debug\net8.0\ref\DeserializarXML.dll

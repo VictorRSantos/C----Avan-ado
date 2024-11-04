@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApplication/1.0.0": {
+        "dependencies": {
+          "DeserializarXML": "1.0.0",
+          "SerializarXML": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApplication.dll": {}
+        }
+      },
+      "DeserializarXML/1.0.0": {
+        "dependencies": {
+          "SerializarXML": "1.0.0"
+        },
+        "runtime": {
+          "DeserializarXML.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SerializarXML/1.0.0": {
+        "runtime": {
+          "SerializarXML.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeserializarXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializarXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

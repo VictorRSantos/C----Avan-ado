@@ -9,3 +9,15 @@ D:\Victor\Estudos\udemy\C# - Avançado\SerializarXML\obj\Debug\net8.0\Serializar
 D:\Victor\Estudos\udemy\C# - Avançado\SerializarXML\obj\Debug\net8.0\refint\SerializarXML.dll
 D:\Victor\Estudos\udemy\C# - Avançado\SerializarXML\obj\Debug\net8.0\SerializarXML.pdb
 D:\Victor\Estudos\udemy\C# - Avançado\SerializarXML\obj\Debug\net8.0\ref\SerializarXML.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\bin\Debug\net8.0\SerializarXML.deps.json
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\bin\Debug\net8.0\SerializarXML.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\bin\Debug\net8.0\SerializarXML.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.AssemblyInfoInputs.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.AssemblyInfo.cs
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.sourcelink.json
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\refint\SerializarXML.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\SerializarXML.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\SerializarXML\obj\Debug\net8.0\ref\SerializarXML.dll

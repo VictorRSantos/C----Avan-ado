@@ -1,12 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Victor\\Estudos\\udemy\\C# - Avan\u00E7ado\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C68F81-9CE6-4568-873D-57255C81B2BD}|ConsoleApplication\\ConsoleApplication.csproj|d:\\victor\\estudos\\udemy\\csharp-avancado\\consoleapplication\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{36C68F81-9CE6-4568-873D-57255C81B2BD}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C68F81-9CE6-4568-873D-57255C81B2BD}|ConsoleApplication\\ConsoleApplication.csproj|d:\\victor\\estudos\\udemy\\csharp-avancado\\consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C68F81-9CE6-4568-873D-57255C81B2BD}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AE813E-00AF-4A51-B5CA-5F7469602FC0}|JsonHelper\\JsonHelper.csproj|d:\\victor\\estudos\\udemy\\csharp-avancado\\jsonhelper\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AE813E-00AF-4A51-B5CA-5F7469602FC0}|JsonHelper\\JsonHelper.csproj|solutionrelative:jsonhelper\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77DB168-5202-48F4-BD9E-BFDEC3A6E0B7}|XMLHelper\\XMLHelper.csproj|d:\\victor\\estudos\\udemy\\csharp-avancado\\xmlhelper\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77DB168-5202-48F4-BD9E-BFDEC3A6E0B7}|XMLHelper\\XMLHelper.csproj|solutionrelative:xmlhelper\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AE813E-00AF-4A51-B5CA-5F7469602FC0}|JsonHelper\\JsonHelper.csproj|d:\\victor\\estudos\\udemy\\csharp-avancado\\jsonhelper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AE813E-00AF-4A51-B5CA-5F7469602FC0}|JsonHelper\\JsonHelper.csproj|solutionrelative:jsonhelper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\.gitignore",
+              "RelativeDocumentMoniker": "ConsoleApplication\\.gitignore",
+              "ToolTip": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\.gitignore",
+              "RelativeToolTip": "ConsoleApplication\\.gitignore",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAywKwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T00:59:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonFormatter.cs",
+              "DocumentMoniker": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\JsonHelper\\JsonFormatter.cs",
+              "RelativeDocumentMoniker": "JsonHelper\\JsonFormatter.cs",
+              "ToolTip": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\JsonHelper\\JsonFormatter.cs",
+              "RelativeToolTip": "JsonHelper\\JsonFormatter.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:56:08.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication\\Program.cs",
+              "ToolTip": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\ConsoleApplication\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:01:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMLFormatter.cs",
+              "DocumentMoniker": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\XMLHelper\\XMLFormatter.cs",
+              "RelativeDocumentMoniker": "XMLHelper\\XMLFormatter.cs",
+              "ToolTip": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\XMLHelper\\XMLFormatter.cs",
+              "RelativeToolTip": "XMLHelper\\XMLFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:01:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\JsonHelper\\Class1.cs",
+              "RelativeDocumentMoniker": "JsonHelper\\Class1.cs",
+              "ToolTip": "D:\\Victor\\Estudos\\udemy\\Csharp-Avancado\\JsonHelper\\Class1.cs",
+              "RelativeToolTip": "JsonHelper\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:55:05.787Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

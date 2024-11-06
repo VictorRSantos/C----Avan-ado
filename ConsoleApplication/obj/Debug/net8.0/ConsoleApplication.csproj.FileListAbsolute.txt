@@ -18,3 +18,29 @@ D:\Victor\Estudos\udemy\C# - Avançado\ConsoleApplication\obj\Debug\net8.0\Conso
 D:\Victor\Estudos\udemy\C# - Avançado\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
 D:\Victor\Estudos\udemy\C# - Avançado\ConsoleApplication\bin\Debug\net8.0\DeserializarXML.dll
 D:\Victor\Estudos\udemy\C# - Avançado\ConsoleApplication\bin\Debug\net8.0\DeserializarXML.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.exe
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.deps.json
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.runtimeconfig.json
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\Nancy.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\JsonHelper.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\XMLHelper.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\JsonHelper.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\bin\Debug\net8.0\XMLHelper.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.csproj.AssemblyReference.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfoInputs.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfo.cs
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.sourcelink.json
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleA.44DD3A81.Up2Date
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\refint\ConsoleApplication.dll
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
+D:\Victor\Estudos\udemy\Csharp-Avancado\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
